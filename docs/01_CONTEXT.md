@@ -1,9 +1,9 @@
-Contexto:
+# Contexto:
 Aduanas es un organismo del Estado de administración
 autónoma, que se relaciona con el poder ejecutivo, a través
 del Ministerio de Hacienda.
 
-Funciones:
+# Funciones de aduanas:
 Como institución pública, Aduanas cumple funciones claves para el desarrollo del
 país, ya que tiene un rol preponderante en materia de comercio exterior,
 especialmente, en la facilitación y agilización de las operaciones de importación y
@@ -13,7 +13,7 @@ oportuna y exacta, y recaudar los derechos e impuestos vinculados a éstas.
 Además, le corresponde generar las estadísticas del intercambio comercial de Chile
 y realizar otras tareas que le encomienda la ley.
 
-Problema:
+# Problema:
 Esperas entre 8 a 20 horas para cruzar desde Argentina.
 Largas esperas en el lado chileno se han registrado en el paso Los Libertadores. Autoridades
 reconocen que se necesita reforzar la infraestructura y hacer mejorar los sistemas de
