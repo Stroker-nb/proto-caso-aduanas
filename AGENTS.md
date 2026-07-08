@@ -6,7 +6,7 @@ Como agente de IA, los siguientes archivos o directorios son la fuente de la ver
 
 - [README](README.md)
 - [Instrucciones](AGENTS.md)
-- [Documentos](docs)
+- [Documentos](docs) <----- AQUI ESTA TODO LO QUE TIENES QUE REPRESENTAR CON EL CODIGO
 
 ## Técnicas de codificado
 
